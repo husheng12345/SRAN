@@ -1,0 +1,5 @@
+numpy==1.16.6
+tqdm==4.54.1
+scipy==1.2.3
+opencv-python==4.2.0.32
+pillow==6.2.2
