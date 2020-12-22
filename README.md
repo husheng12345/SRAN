@@ -80,9 +80,16 @@ Performance on PGM:
 | :---   | :---:   | :---:  | :---:       | :---:      | :---:	| :---:		| :---:	| :---: 		|
 | Acc    | 35.8%   | 42.0% 	| 48.0%       | 56.4%      | 62.6%	| 66.7%		| 68.1%	| **71.3%** 	|
 
-
-
-
+# Citation
+If you find our work helpful, please cite us.
+```
+@inproceedings{hu2021stratified,  
+     author={Hu, Sheng and Ma, Yuqing and Liu, Xianglong and Wei, Yanlu and Bai, Shihao},  
+     title={Stratified Rule-Aware Network for Abstract Visual Reasoning},  
+     booktitle={AAAI Conference on Artificial Intelligence (AAAI)},  
+     year={2021}  
+ }  
+```
 
 
 
