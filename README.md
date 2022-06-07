@@ -83,11 +83,14 @@ Performance on PGM:
 # Citation
 If you find our work helpful, please cite us.
 ```
-@inproceedings{hu2021stratified,  
-     author={Hu, Sheng and Ma, Yuqing and Liu, Xianglong and Wei, Yanlu and Bai, Shihao},  
-     title={Stratified Rule-Aware Network for Abstract Visual Reasoning},  
-     booktitle={AAAI Conference on Artificial Intelligence (AAAI)},  
-     year={2021}  
+@inproceedings{hu2021stratified,
+     title={Stratified Rule-Aware Network for Abstract Visual Reasoning},
+     author={Hu, Sheng and Ma, Yuqing and Liu, Xianglong and Wei, Yanlu and Bai, Shihao},
+     booktitle={Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)},
+     volume={35},
+     number={2},
+     pages={1567--1574},
+     year={2021}
  }  
 ```
 
