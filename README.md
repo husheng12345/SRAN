@@ -60,7 +60,7 @@ python SRAN/main.py --dataset <I-RAVEN or PGM> --dataset_path <path to the datas
 
 Check the ```SRAN/main.py``` file for a full list of arguments you can adjust.
 
-# Performacne
+# Performance
 Performance on I-RAVEN:
 
 | Model      | Acc        | Center     | 2x2G	    | 3x3G	     | O-IC       | O-IG       | L-R        | U-D        |
